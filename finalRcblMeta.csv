@@ -1,0 +1,492 @@
+extracted genus,extracted species,extracted/literature/genus,actual species,actual genus,genbank version number,voucher,sequence length
+Arisarum,vulgare,extracted,Arisarum,vulgare,EU193186.1,,1242
+Arum,elongatum,extracted,Arum,elongatum,EU193243.1,,1242
+Arum,hygrophilum,extracted,Arum,hygrophilum,EU193252.1,,1242
+Arum,pictum,extracted,Arum,pictum,EU193265.1,,1242
+Pinellia,cordata,extracted,Pinellia,cordata,JQ237201.1,"T.S. Yi 08015",1221
+Pinellia,pedatisecta,extracted,Pinellia,pedatisecta,EU193197.1,,1242
+Pinellia,peltata,extracted,Pinellia,peltata,JQ237202.1,"T.S. Yi 08016",1221
+Pinellia,ternata,extracted,Pinellia,ternata,JQ237203.1,"T.S. Yi 08018",1221
+Butomus,umbellatus,extracted,Butomus,umbellatus,U80685.1,,1182
+Bupleurum,barceloi,genus,Bupleurum,sichuanense,JQ934536.1,,933
+Hedera,algeriensis,extracted,Hedera,algeriensis,AY163528.1,,946
+Hedera,azorica,extracted,Hedera,azorica,AY163530.1,,947
+Hedera,canariensis,extracted,Hedera,canariensis,AY163544.1,,952
+Hedera,colchica,extracted,Hedera,colchica,AY163531.1,,946
+Hedera,cypria,extracted,Hedera,cypria,AY163535.1,,973
+Hedera,helix,genus,Hedera,iberica,AY163533.1,,952
+Hedera,hibernica,extracted,Hedera,hibernica,AY163540.1,,947
+Hedera,iberica,genus,Hedera,nepalensis,AY163543.1,,949
+Hedera,maderensis,extracted,Hedera,maderensis,AY163541.1,,947
+Hedera,maroccana,extracted,Hedera,maroccana,AY163532.1,,947
+Hedera,pastuchovii,genus,Hedera,rhombea,AY163529.1,,948
+Hedera,rhombea,genus,Hedera,helix,AY163534.1,,947
+Allium,antoni-bolosii,genus,Allium,cornutum,KX538786.1,,1043
+Lycoris,radiata,extracted,Lycoris,radiata,DQ020512.1,"S.D. Shi 030910; Zhejiang University Herbarium",953
+Narcissus,abscissus,genus,Narcissus,elegans,AY149379.1,,1206
+Pancratium,maritimum,extracted,Pancratium,maritimum,HE565508.1,"NAP<ITA>:Vela E., PM-L10",1056
+Agave,cupreata,genus,Agave,sp.,JF784418.1,,871
+Brimeura,duvigneaudii,genus,Brimeura,amethystina,FJ232704.1,,878
+Muscari,atlanticum,genus,Leopoldia,comosa,AY149378.1,,1206
+Muscari,neglectum,extracted,Muscari,neglectum,AY299807.1,,1129
+Ophiopogon,amblyohyllus,literature,Ophiopogon,amblyphyllus,KF671501.1,"nie2097",1125
+Ophiopogon,bockianus,extracted,Ophiopogon,bockianus,KF671473.1,"ZDG615",1134
+Ophiopogon,bodinieri,extracted,Ophiopogon,bodinieri,KF671462.1,"nie2021",1136
+Ophiopogon,chingii,extracted,Ophiopogon,chingii,KF671468.1,"nie3739",1135
+Ophiopogon,clavatus,extracted,Ophiopogon,clavatus,KF671505.1,"HGWZ462",1135
+Ophiopogon,dracaenoids,literature,Ophiopogon,dracaenoides,KF671499.1,"nie3587",1135
+Ophiopogon,grandis,extracted,Ophiopogon,grandis,KF671467.1,"HGWZ472",1135
+Ophiopogon,heterandrus,extracted,Ophiopogon,heterandrus,KF671504.1,"HGWZ505",1135
+Ophiopogon,japonicus,extracted,Ophiopogon,japonicus,KF671477.1,"HGWZ674",1131
+Ophiopogon,lancangensis,extracted,Ophiopogon,lancangensis,KF671470.1,"nie2059",1135
+Ophiopogon,latifolius,extracted,Ophiopogon,latifolius,KF671497.1,"HGWZ518",1135
+Ophiopogon,longibracteatus,extracted,Ophiopogon,longibracteatus,KF671476.1,"GY36",1126
+Ophiopogon,mairei,extracted,Ophiopogon,mairei,KJ745600.1,"Z.-L.Nie 2372 (KUN)",1142
+Ophiopogon,marmortus,literature,Ophiopogon,marmoratus,KF671487.1,"HGWZ625",1136
+Ophiopogon,peliosanthoides,extracted,Ophiopogon,peliosanthoides,KF671507.1,"nie3586",1135
+Ophiopogon,pingbienensis,extracted,Ophiopogon,pingbienensis,KF671508.1,"nie3927",1134
+Ophiopogon,platyphyllus,extracted,Ophiopogon,platyphyllus,KF671498.1,"nie2338",1134
+Ophiopogon,reversus,extracted,Ophiopogon,reversus,KF671474.1,"GY42",1124
+Ophiopogon,revolutus,extracted,Ophiopogon,revolutus,KF671496.1,"HGWZ636",1136
+Ophiopogon,sylvicola,extracted,Ophiopogon,sylvicola,KF671494.1,"HGWZ00793",1136
+Ophiopogon,szechuansis,literature,Ophiopogon,szechuanensis,KF671486.1,"HGWZ593",1136
+Ophiopogon,tienensis,extracted,Ophiopogon,tienensis,KF671506.1,"nie3737",1135
+Ophiopogon,yunnanensis,extracted,Ophiopogon,yunnanensis,KF671490.1,"GY06",1135
+Ophiopogon,zingiberaceus,extracted,Ophiopogon,zingiberaceus,KF671493.1,"nie3549",1131
+Ornithogalum,billardieri,genus,Ornithogalum,armeniacum,AM992654.2,"K:Mark Wayne Chase at Jodrell lab.:MWC1682",1246
+Peliosanthes,macrostegia,extracted,Peliosanthes,macrostegia,KJ745599.1,"Z.-L.Nie 3242 (KUN)",1146
+Peliosanthes,ophiopogoniodes,literature,Peliosanthes,ophiopogonoides,KF671526.1,"HGWZ536",1135
+Peliosanthes,teta,extracted,Peliosanthes,teta,KF671521.1,"HGWZ341",1135
+Peliosanthes,yunnanensis,extracted,Peliosanthes,yunnanensis,KF671527.1,"GY04",1136
+Polygonatum,odoratum,extracted,Polygonatum,odoratum,KJ745550.1,"Z.-L.Nie 696 (KUN)",1156
+Ruscus,hypoglossum,extracted,Ruscus,hypoglossum,AJ441158.1,"M019",952
+Urginea,indica,literature,Drimia,indica,MK069664.1,,793
+Asphodelus,ramosus,genus,Asphodelus,albus,AY149360.1,,1206
+Moraea,sisyrinchium,genus,Moraea,vlokii,GQ285219.1,"Goldblatt & Manning 10764A (NBG)",1207
+Sisyrinchium,micranthum,genus,Sisyrinchium,nashii,KJ773899.1,"Abbott 24662 (FLAS)",1244
+Sisyrinchium,rosulatum,extracted,Sisyrinchium,rosulatum,AB744223.1,,791
+Anacamptis,coriophora,extracted,Anacamptis,coriophora,MF944537.1,,820
+Anacamptis,papilionacea,genus,Anacamptis,sp.,MF945279.1,,945
+Cyrtopodium,intermedium,genus,Cyrtopodium,punctatum,KT750217.1,"Z.J.Liu 7777",796
+Dactylorhiza,maculata,genus,Dactylorhiza,viridis,KJ451495.1,"STET 0772",1193
+Dactylorhiza,romana,genus,Dactylorhiza,sp.,MF944837.1,"Jin XH 14263",1242
+Neuwiedia,asingapureana,genus,Neuwiedia,veratrifolia,AY299813.1,,1194
+Orchis,anatolica,genus,Galearis,rotundifolia,AY147748.1,,794
+Platanthera,bifolia,extracted,Platanthera,bifolia,MF944840.1,"Jin XH 14284",1239
+Ambrosia,artemisiifolia,extracted,Ambrosia,artemisiifolia,MN812528.1,"HCCN-PJ012640-WB1124",819
+Centaurea,jacea,extracted,Centaurea,jacea,HQ593227.1,"AP221",808
+Centaurea,micranthos,literature,Centaurea,stoebe,JN053331.1,,796
+Dahlia,apiculata,genus,Dahlia,coccinea,MF688974.1,"MZU/BT/98",786
+Dahlia,australis,genus,Dahlia,pinnata,AB530962.1,,1244
+Echinops,bannaticus,genus,Echinops,ritro,AB530964.1,,1244
+Hieracium,bifidum,extracted,Hieracium,bifidum,KF602081.1,,1166
+Hieracium,umbellatum,extracted,Hieracium,umbellatum,KC474886.1,"Saarela_1559_CAN",783
+Lactuca,perennis,genus,Lactuca,canadensis,GU817771.1,"M.A. Vincent 13128",1081
+Legousia,falcata,genus,Legousia,hybrida,DQ356163.1,"Corneliuson s.n.; (GB 152920)",1215
+Leontopodium,artemisiifolium,genus,Leontopodium,alpinum,AB530972.1,,1244
+Leucanthemum,paludosum,literature,Mauranthemum,paludosum,AB530971.1,,1244
+Reichardia,glauca,genus,Reichardia,picroides,HM850301.1,"BM 2008/643",1123
+Scorzonera,austriaca,extracted,Scorzonera,austriaca,KC968003.1,"Y.L.Peng & L.J.Tong1123-3(CDBI)",907
+Solidago,canadensis,extracted,Solidago,canadensis,MF135401.1,"Li ZY, Xiang XG, Xu SZ 201509235",1240
+Solidago,gigantea,extracted,Solidago,gigantea,HQ593451.1,"AP283",781
+Tragopogon,dubius,extracted,Tragopogon,dubius,HQ593471.1,"AP067",875
+Tussilago,farfara,extracted,Tussilago,farfara,HQ593480.1,"AP436-b",809
+Veronica,chamaedrys,extracted,Veronica,chamaedrys,KF602117.1,,961
+Veronica,officinalis,extracted,Veronica,officinalis,HQ593489.1,"AP121",782
+Veronica,peregrina,extracted,Veronica,peregrina,HM850451.1,"BM 2008/285",1003
+Veronica,persica,extracted,Veronica,persica,MF135404.1,"Li ZY, Xiang XG, Xu SZ 201509242",1238
+Symphyandra,hofmannii,genus,Campanula,zangezura,EF213545.1,"SS-04-12; TRTE",1180
+Galinsoga,parviflora,extracted,Galinsoga,parviflora,MF135395.1,"Li ZY, Xiang XG, Xu SZ 201509223",1237
+Alkanna,leiocarpa,genus,Alkanna,orientalis,EU599850.1,,1196
+Anchusa,officinalis,genus,Anchusa,crispa,EU599909.1,,1196
+Borago,morisiana,extracted,Borago,morisiana,EU599881.1,,1196
+Borago,officinalis,extracted,Borago,officinalis,EU599880.1,,1196
+Borago,pygmaea,extracted,Borago,pygmaea,EU599883.1,,1196
+Borago,trabutii,extracted,Borago,trabutii,EU599879.1,,1196
+Cynoglottis,barrelieri,extracted,Cynoglottis,barrelieri,EU599889.1,,1196
+Cynoglottis,chetikiana,extracted,Cynoglottis,chetikiana,EU599890.1,,1196
+Echium,angustifolium,extracted,Echium,angustifolium,EU599871.1,,1196
+Onosma,arenaria,genus,Onosma,taurica,EU599861.1,,1196
+Onosma,sericea,genus,Onosma,graeca,EU599860.1,,1196
+Arabidopsis,arenicola,extracted,Arabidopsis,arenicola,KC474046.1,"Brysting_01-181_CAN",762
+Arabidopsis,kamchatica,literature,Arabidopsis,lyrata,DQ310540.1,,1053
+Arabis,alpina,extracted,Arabis,alpina,KF602121.1,,1030
+Malcolmia,crenulata,genus,Malcolmia,africana,JN847814.1,,1152
+Alternanthera,philoxeroides,extracted,Alternanthera,philoxeroides,MF135400.1,"Li ZY, Xiang XG, Xu SZ 201509234",1236
+Atriplex,canescens,genus,Atriplex,parishii,HM587588.1,"G. Kadereit 2009/13 (MJG)",1209
+Chenopodium,acerifolium,genus,Chenopodium,detestans,KT626680.1,"CHR:,1181
+Chenopodium,acuminatum,extracted,Chenopodium,acuminatum,MH767482.1,"TuTY1507",1248
+Chenopodium,ambrosioides,literature,Dysphania,ambrosioides,MF135403.1,"Li ZY, Xiang XG, Xu SZ 201509237",1233
+Chenopodium,bonus-henricus,extracted,Blitum,bonus-henricus,AY042567.1,,834
+Chenopodium,litwinowii,literature,Blitum,litwinowii,MH632749.1,"J.E. Carter 602 (LE)",1155
+Chenopodium,pumilio,literature,Dysphania,pumilio,MF135321.1,"Li ZY, Xu SZ, Hu CS 13316",1242
+Chenopodium,quinoa,extracted,Chenopodium,quinoa,KF319010.1,"EC507748",1188
+Chenopodium,schraderianum,literature,Dysphania,schraderiana,KY942083.1,,1061
+Consolea,corallicola,genus,Consolea,rubescens,JF787161.1,"DBG:0390",768
+Nopalea,cochinellifera,literature,Nopalea,cochenillifera,JF787166.1,"DBG:0395",769
+Opuntia,abjecta,extracted,Opuntia,abjecta,JF787300.1,"LCM 3908",804
+Opuntia,acaulis,genus,Opuntia,humifusa,KJ735961.1,,875
+Opuntia,austrina,extracted,Opuntia,austrina,JF787186.1,"3450",796
+Opuntia,cespitosa,extracted,Opuntia,cespitosa,JF787197.1,"1380",793
+Opuntia,dillenii,extracted,Opuntia,dillenii,JF787289.1,"3220",796
+Opuntia,macrorhiza,extracted,Opuntia,macrorhiza,JF787240.1,"MB 15682",797
+Opuntia,pusilla,extracted,Opuntia,pusilla,JF787264.1,"1091",807
+Opuntia,tortispina,extracted,Opuntia,tortispina,JF787299.1,"3533",807
+Pachycereus,pringlei,genus,Pachycereus,weberi,KJ568428.1,,827
+Cerastium,alpinum,extracted,Cerastium,alpinum,KC474435.1,"Gillespie_9823_CAN",771
+Dianthus,arenarius,genus,Dianthus,turkestanicus,KU722862.1,"UNKAR3671",814
+Dianthus,broteri,genus,Dianthus,superbus,KU722861.1,"UNKAR7918",814
+Dianthus,petraeus,genus,Dianthus,longicalyx,KU722859.1,"UNKAR8506",814
+Dianthus,rupicola,genus,Dianthus,imereticus,KU722858.1,"UNKAR7911",814
+Lychnis,flos-cuculi,genus,Silene,coronaria,AY042612.1,,858
+Polycarpon,colomense,genus,Polycarpon,depressum,MF963417.1,"UCR171264",1241
+Saponaria,officinalis,extracted,Saponaria,officinalis,HQ593433.1,"AP346",788
+Silene,aegyptiaca,genus,Silene,armeria,AB516354.1,,804
+Viscaria,vulgaris,genus,Viscaria,alpina,KC476100.1,"McLaren_38_CAN",776
+Acantholimon,libanoticum,genus,Acantholimon,acerosum,AJ391314.1,"Chase 709, Kew",927
+Limonium,lanceolatum,extracted,Limonium,lanceolatum,MH582709.1,"M.M. Romeiras 439 (LISC)",1206
+Limonium,vulgare,extracted,Limonium,vulgare,AJ391332.1,,914
+Fallopia,×bohemica,genus,Fallopia,multiflora,HM357895.1,"CPU:L.Q. Zhao 0895",1179
+Fallopia,dumetorum,extracted,Fallopia,dumetorum,HM357894.1,"CPU:L.Q. Zhao 0894",1179
+Fallopia,japonica,extracted,Reynoutria,japonica,HM357892.1,"CPU:X. H. Meng 0944",1179
+Fallopia,sachalinensis,genus,Fallopia,dentatoalata,HM357888.1,"CPU:L.Q. Zhao 0891",1179
+Polygonum,aviculare,extracted,Polygonum,aviculare,JN234937.1,"FanDM-038",928
+Polygonum,romanum,genus,Polygonum,polygamum,KJ773779.1,"Abbott 23261 (FLAS)",1230
+Polypodium,australe,literature,Polypodium,cambricum,KF909042.1,"Patrick James Blyth Coll. No. 8-61 (E)",1241
+Portulaca,oleracea,extracted,Portulaca,oleracea,MH767707.1,"TuTY1393",1245
+Euonymus,europaeus,extracted,Euonymus,europaeus,AF222356.1,,908
+Euonymus,verrucosus,genus,Euonymus,maackii,KP088589.1,"BOP010129",785
+Euphorbia,fontqueriana,genus,Euphorbia,terracina,HQ900390.1,"Molero 23_2007 & Rovira, A. ()",934
+Euphorbia,maresii,genus,Euphorbia,biumbellata,HQ900372.1,"Molero 26_2007 (BCN)",922
+Euphorbia,margalidiana,genus,Euphorbia,dendroides,HQ900376.1,"Barres 26 & Mameli (BC)",906
+Euphorbia,paralias,genus,Euphorbia,usambarica,HQ900392.1,"Gereau 3021 & Lovett (K)",905
+Euphorbia,phymatosperma,genus,Euphorbia,nubica,HQ900382.1,"Friis 8288 (K)",905
+Euphrasia,minimus,literature,Euphrasia,minima,EU040305.1,"E. Vitek 03-1690 (W)",790
+Lagenaria,siceraria,extracted,Lagenaria,siceraria,KF022489.1,"LX201209087-2",1162
+Dioscorea,deltoidea,extracted,Dioscorea,deltoidea,EF614218.1,"Huang & Guo 200212110 (NAS)",1137
+Dioscorea,orientalis,genus,Dioscorea,potaninii,JQ733625.1,"Huang 644",831
+Sambucus,nigra,genus,Sambucus,canadensis,KP088849.1,"BOP010269",785
+Sambucus,racemosa,extracted,Sambucus,racemosa,L14066.1,,1173
+Viburnum,lantana,genus,Viburnum,opulus,KP088910.1,"BOP010245",785
+Centranthus,longiflorus,genus,Centranthus,ruber,AJ420879.1,,1241
+Cephalaria,gigantea,genus,Cephalaria,tenella,FJ640604.1,,1050
+Cephalaria,leucantha,extracted,Cephalaria,leucantha,FJ640598.1,,806
+Cephalaria,squamiflora,genus,Cephalaria,zeyheriana,FJ640602.1,,1035
+Dipsacus,fullonum,extracted,Dipsacus,fullonum,HQ593272.1,"AP309",862
+Dipsacus,laciniatus,genus,Dipsacus,strigosus,FJ640609.1,,1045
+Dipsacus,pilosus,extracted,Dipsacus,pilosus,FJ640608.1,,1041
+Knautia,ambigua,genus,Knautia,orientalis,FJ640611.1,,1055
+Knautia,arvensis,extracted,Knautia,arvensis,FJ640617.1,,961
+Knautia,dinarica,extracted,Knautia,dinarica,FJ640615.1,,987
+Knautia,drymeia,extracted,Knautia,drymeia,FJ640610.1,,766
+Knautia,integrifolia,genus,Knautia,dipsacifolia,FJ640613.1,,1015
+Knautia,maxima,genus,Knautia,midzorensis,FJ640616.1,,1001
+Knautia,norica,genus,Knautia,calycina,FJ640618.1,,961
+Lonicera,caerulea,genus,Lonicera,ferdinandi,KP088660.1,"BOP010123",785
+Lonicera,caprifola,genus,Lonicera,hypoglauca,JX073142.1,,1137
+Lonicera,pyrenaica,genus,Lonicera,confusa,JX073141.1,,1137
+Scabiosa,canescens,genus,Scabiosa,africana,FJ640621.1,,1069
+Scabiosa,cinerea,extracted,Scabiosa,cinerea,JQ023782.1,,1017
+Scabiosa,columbaria,extracted,Scabiosa,columbaria,FJ640620.1,,971
+Scabiosa,leuchopylla,genus,Scabiosa,tysonii,FJ640625.1,,1045
+Scabiosa,lucida,genus,Scabiosa,triandra,JQ023783.1,,1017
+Scabiosa,ochroleuca,extracted,Scabiosa,ochroleuca,FJ640619.1,,1075
+Scabiosa,ochroleucaxcolumbaria,genus,Scabiosa,silenifolia,JQ023778.1,,1017
+Scabiosa,prolifera,genus,Scabiosa,transvaalensis,FJ640624.1,,1008
+Scabiosa,triandra,genus,Scabiosa,buekiana,JQ023789.1,,1005
+Succisa,pratensis,extracted,Succisa,pratensis,FJ640593.1,,1044
+Valeriana,discoridis,literature,Valeriana,dioscoridis,KP205410.1,"WU0078580",818
+Valeriana,montana,extracted,Valeriana,montana,KP205414.1,"WU0078591",842
+Valeriana,officinalis,extracted,Valeriana,officinalis,AF448583.1,,918
+Lomelosia,caucasica,extracted,Lomelosia,caucasica,FJ640630.1,,1041
+Lomelosia,crenata,genus,Lomelosia,argentea,FJ640629.1,,1194
+Lomelosia,cretica,extracted,Lomelosia,cretica,FJ640628.1,,1186
+Sixalix,atropurpurea,extracted,Sixalix,atropurpurea,FJ640623.1,,1230
+Actinidia,chinensis,extracted,Actinidia,chinensis,KP088458.1,"BOP010142",785
+Empetrum,hermaphroditum,extracted,Empetrum,nigrum,KF522690.1,,765
+Erica,manipuliflora,extracted,Erica,manipuliflora,AY520770.1,"David Small s.n.",769
+Erica,sicula,extracted,Erica,sicula,AY520776.1,"RBGK 1985-2612",770
+Rhododendron,ponticum,extracted,Rhododendron,ponticum,AB038946.1,,949
+Vaccinium,uliginosum,genus,Vaccinium,arboreum,KJ773963.1,"Abbott 22566 (FLAS)",1215
+Anagallis,foemina,genus,Anagallis,pumila,MG950525.1,"Faden & Ng'weno 87/29",877
+Lysimachia,minoricensis,extracted,Lysimachia,minoricensis,MG950584.1,"Anderberg s.n.(cult.1993)",877
+Primula,borealis,extracted,Primula,borealis,KC475519.1,"Elven_2336-9_CAN",766
+Primula,egaliksensis,extracted,Primula,egaliksensis,KC475521.1,"Consaul_3815_CAN",777
+Acacia,tortilis,literature,Vachellia,tortilis,MN592492.1,"E. Koenen 603 (Z)",753
+Anthyllis,hystrix,genus,Anthyllis,vulneraria,KF602115.1,,1184
+Bauhinia,florficata,genus,Bauhinia,rufescens,KX119264.1,"LUH:5124",1082
+Cercis,candensis,literature,Cercis,canadensis,KP088526.1,"BOP010060",785
+Cercis,chinensis,extracted,Cercis,chinensis,KP088527.1,"BOP010459",785
+Cercis,chingii,genus,Cercis,gigantea,KP088528.1,"BOP010059",785
+Genista,acanthoclada,genus,Genista,cilentina,AJ458257.1,,987
+Genista,cinerea,genus,Genista,thyrrena,AJ458263.1,,974
+Genista,dorycnifolia,extracted,Genista,dorycnifolia,AJ458264.1,,957
+Genista,ovata,genus,Genista,gasparrinii,AJ458261.1,,974
+Genista,pilosa,genus,Genista,valsecchiae,AJ458260.1,,973
+Lathyrus,latifolius,genus,Lathyrus,hierosolymitanus,JX505477.1,"Mattatia s.n. (GH)",990
+Medicago,sativa,genus,Medicago,arabica,AB851490.1,,763
+Melilotus,albus,extracted,Melilotus,albus,MN533426.1,,754
+Melilotus,officinalis,extracted,Melilotus,officinalis,MF135476.1,"Li ZY, Xu SZ X15",1248
+Trifolium,pratense,extracted,Trifolium,pratense,MH203381.1,"HCCN-PJ012640-WB119",827
+Trifolium,repens,extracted,Trifolium,repens,MF135470.1,"Li ZY, Xu SZ X9",1234
+Vicia,bifoliolata,genus,Vicia,villosa,MH548255.1,"JS0071",1231
+Vicia,cracca,genus,Vicia,sativa,AB517630.1,,798
+Alnus,glutinosa,extracted,Alnus,glutinosa,FJ423675.1,"Yoo s.n.",954
+Alnus,incana,extracted,Alnus,incana,FJ423677.1,"CS82185",955
+Betula,hybrids,genus,Betula,alnoides,FJ423679.1,"Wen6405",992
+Betula,nana,genus,Betula,papyrifera,FJ423683.1,"CS78048",991
+Betula,pubescens,genus,Betula,pendula,FJ423684.1,"CS03022",987
+Corylus,avellana,extracted,Corylus,avellana,FJ423655.1,"CS81224",974
+Ostrya,carpinifolia,extracted,Ostrya,carpinifolia,FJ423667.1,"Sun s.n.",979
+Fagus,sylvatica,extracted,Fagus,sylvatica,KU529767.1,"Oh 5458",819
+Lithocarpus,bacgiangensis,genus,Lithocarpus,fenestratus,KF418897.1,"Hong YP 017",1249
+Lithocarpus,xylocarpus,extracted,Lithocarpus,xylocarpus,FJ185066.1,"1463",805
+Quercus,acutissima,extracted,Quercus,acutissima,AB124951.1,,756
+Quercus,cerris,extracted,Quercus,cerris,AB124954.1,,756
+Quercus,petraea,extracted,Quercus,petraea,KF683156.1,"DAV:A64.1216",1219
+Quercus,robur,extracted,Quercus,robur,KP088815.1,"BOP010419",785
+Quercus,variabilis,extracted,Quercus,variabilis,KP088822.1,"BOP010445",785
+Trigonobalanus,doichangensis,extracted,Trigonobalanus,doichangensis,KF418848.1,"Xiang XG 366",753
+Vinca,libanotica,genus,Vinca,minor,KX910920.1,"yangApY079",1236
+Centaurium,bianoris,genus,Centaurium,pulchellum,KX910828.1,"CPG13224",1236
+Gentiana,aristata,genus,Gentiana,lutea,EU370939.1,"LiuJQ & Miehe 2004",768
+Galium,anisophyllon,genus,Galium,septentrionale,MG954013.1,"WTU",1230
+Galium,pumilum,extracted,Galium,pumilum,KF602137.1,,943
+Erodium,gaillardotii,extracted,Erodium,gaillardotii,MF151008.1,,1050
+Erodium,reichardii,extracted,Erodium,reichardii,MF151022.1,,1050
+Ephedra,campylopoda,extracted,Ephedra,campylopoda,AY755808.1,"(S) C-7605",846
+Taraxacum,officinale,extracted,Taraxacum,officinale,MH203380.1,"HCCN-PJ012640-WB77",827
+Ramonda,myconi,extracted,Ramonda,myconi,AJ490914.1,"1971 1477 (RBGE)",910
+Lamium,amplexicaule,extracted,Lamium,amplexicaule,KF055116.1,,1162
+Lamium,argentatum,literature,Lamium,galeobdolon,KF055121.1,"(H) 1656894",1162
+Lamium,endtmannii,genus,Lamium,orvala,KF055134.1,"GJO:55791",1162
+Lamium,flavidum,genus,Lamium,incisum,KF055133.1,"TUR:394510",1162
+Lamium,galeobdolon,genus,Lamium,moschatum,KF055129.1,"(H) 1695935",1162
+Lamium,montanum,genus,Lamium,maculatum,KF055128.1,"H 1681882",1162
+Lamium,orvala,genus,Lamium,purpureum,KF055132.1,,1162
+Lamium,striatum,literature,Lamium,garganicum,KF055123.1,"(BR) 5499823",1162
+Marrubium,libanoticum,genus,Marrubium,vulgare,HM850159.1,"BM 2008/697",1027
+Origanum,libanoticum,genus,Origanum,vulgare,JQ767169.1,"VETMED:SR472",955
+Origanum,syriacum,extracted,Origanum,syriacum,JQ767166.1,,955
+Salvia,bracteata,genus,Salvia,brandegeei,KP853024.1,"JBW 3212",1066
+Salvia,fruticosa,extracted,Salvia,fruticosa,AY570416.1,"Heidelberg Botanical Garden, Germany",1199
+Salvia,glutinosa,extracted,Salvia,glutinosa,KP853042.1,"JBW 2568",1062
+Salvia,multicaulis,genus,Salvia,clevelandii,KP853030.1,"JBW 3064",863
+Salvia,viridis,genus,Salvia,dorrii,KP853038.1,"JBW 3193",816
+Salvia,viscosa,extracted,Salvia,viscosa,AY570451.1,"Giardini Botanici Hanbury, Italy",1162
+Scutellaria,balearica,genus,Scutellaria,amoena,HQ676585.1,,907
+Scutellaria,brevibracteata,genus,Scutellaria,rehderiana,HQ676584.1,,907
+Thymus,herba-barona,extracted,Thymus,herba-barona,JQ767170.1,"VETMED:Thy12",950
+Fraxinus,ornus,genus,Fraxinus,chinensis,KP088617.1,"BOP010232",785
+Bartsia,trixago,genus,Bartsia,alpina,KC474167.1,"Iles_02-054_CAN",777
+Melampyrum,pratense,extracted,Melampyrum,pratense,AM503852.2,,976
+Parentucellia,viscosa,extracted,Bellardia,viscosa,HM850234.1,"BM 2008/261",883
+Callitriche,cophocarpa,genus,Callitriche,truncata,LC177702.1,"TNS:Yu Ito 1513 & al.",1248
+Chaenorhinum,formenterae,genus,Chaenorhinum,minus,KX037372.1,"UofC 55652",816
+Cymbalaria,fragilis,genus,Cymbalaria,muralis,HM849929.1,"BM 2008/39",1135
+Digitalis,grandiflora,genus,Digitalis,purpurea,KF022477.1,"LX201009089",1162
+Kickxia,spuria,genus,Kickxia,lanigera,KX037373.1,"UofC 44007",816
+Linaria,aeruginea,genus,Linaria,genistifolia,KX037377.1,"UofC 51111",822
+Linaria,vulgaris,extracted,Linaria,vulgaris,KX037378.1,"UofC 49832",821
+Liriope,graminifolia,extracted,Liriope,graminifolia,KF671512.1,"kifir236",1135
+Liriope,platyphylla,literature,Liriope,muscari,KF671514.1,"HGWZ891",1135
+Liriope,spicata,extracted,Liriope,spicata,KF671518.1,"GY51",1108
+Plantago,lanceolata,extracted,Plantago,lanceolata,MF135336.1,"Li ZY, Xiang XG 201507055",1239
+Pseudolysimachion,maritimum,literature,Veronica,longifolia,KX037385.1,"UofC 58516",814
+Scrophularia,auriculata,genus,Scrophularia,elatior,MG516826.1,"Maity & Dey 21955",912
+Verbascum,aliciae,genus,Verbascum,speciosum,AJ490885.1,"HBV",940
+Collinsia,,extracted,Collinsia,parviflora,KX037375.1,"UofC 45022",822
+Colchicum,libanoticum,literature,Colchicum,szovitsii,JF934043.1,,917
+Colchicum,stevenii,extracted,Colchicum,stevenii,KX139867.1,"C0716",860
+Clintonia,andrewsiana,extracted,Clintonia,andrewsiana,KM085458.1,"M.W. Chase 41430",1226
+Clintonia,borealis,extracted,Clintonia,borealis,KM085459.1,"M.W. Chase 498",1226
+Clintonia,udensis,extracted,Clintonia,udensis,JN417446.1,"J.K. Hong 053",1225
+Clintonia,umbellulata,extracted,Clintonia,umbellulata,KM085462.1,"M.W. Chase 839",1226
+Clintonia,uni,literature,Clintonia,uniflora,KM085463.1,"P. Goldblatt 11317",1226
+Fritillaria,alfredae,extracted,Fritillaria,alfredae,LM992912.1,"www.fritillariaicones.com/icones/ic700/ Fritillaria_Icones744.pdf",1098
+Fritillaria,elwesii,extracted,Fritillaria,elwesii,LM992945.1,"www.fritillariaicones.com/icones/ic600/ Fritillaria_Icones605.pdf",1098
+Fritillaria,libanotica,literature,Fritillaria,persica,KM085483.1,"KEW 24326",1226
+Gagea,peduncularis,genus,Gagea,lutea,JN417443.1,"J.K. Hong 001",1225
+Gagea,reticulata,extracted,Gagea,reticulata,KM085498.1,"Zarrei & Ajani 832",1226
+Lillium,martagon,literature,Lilium,martagon,LM993030.1,"Chase 3698 K",1098
+Tulipa,aleppensis,extracted,Tulipa,aleppensis,KM085524.1,"Kepos 43494",1226
+Tulipa,aucheriana,genus,Tulipa,x,KM085539.1,"M.W. Chase 6113",1226
+Tulipa,montana,extracted,Tulipa,montana,KM085533.1,"M. Zarrei & A. Kamrani 35187",1226
+Hypericum,balearicum,genus,Hypericum,setosum,KJ773576.1,"Rider 287 (FLAS)",788
+Populus,nigra,extracted,Populus,nigra,KT627120.1,,820
+Populus,tremula,extracted,Populus,tremula,KC485222.1,"LiuJQ-XJ-2011-015",966
+Viola,beckiana,genus,Viola,philippica,DQ834777.1,"Yoo030520-1",968
+Viola,jaubertiana,genus,Viola,albida,DQ834767.1,"Yoo030520",967
+Viola,libanotica,genus,Viola,hondoensis,GQ262542.1,"KWNU Sun s.n.",963
+Viola,riviniana,genus,Viola,mirabilis,GQ262539.1,"KWNU 65496",962
+Halimium,umbellatum,genus,Halimium,lasianthum,GQ281670.1,"3PV06",1201
+Helianthemum,ledifolium,genus,Helianthemum,carolinianum,KJ773549.1,"Abbott 22599 (FLAS)",1246
+Adansonia,digitata,extracted,Adansonia,digitata,AY328180.1,"Jian 2001071004",1205
+Malva,neglecta,extracted,Malva,neglecta,HQ593360.1,"AP213",774
+Lythrum,salicaria,genus,Lythrum,lineare,KJ773669.1,"Abbott 25286 (FLAS)",777
+Eugenia,hyemalis,genus,Eugenia,pyriformis,MH191262.1,"Widodo 142 (PUNS)",790
+Eugenia,uniflora,extracted,Eugenia,uniflora,AM235654.1,"F. Rutschmann fru 81 (Z)",1144
+Circaea,lutetiana,extracted,Circaea,lutetiana,AM235666.1,"F. Rutschmann fru 86 (Z)",1144
+Oxalis,articulata,genus,Oxalis,debilis,KJ773708.1,"Davis 0238 (FLAS)",1237
+Abies,cilicica,extracted,Abies,cilicica,KC597563.1,"40673",921
+Abies ,alba,extracted,Abies,alba,KC597559.1,,921
+Cedrus,libani,genus,Cedrus,deodara,KP088519.1,"BOP010415",785
+Pinus,brutia,extracted,Pinus,brutia,KP089942.1,"BOP017802",785
+Pinus,pinea,extracted,Pinus,pinea,AB019859.1,,1046
+Pinus,sylvestris,extracted,Pinus,sylvestris,KP089947.1,"BOP017855",785
+Agropyron,cristatum,extracted,Agropyron,cristatum,GQ373392.1,"PI598645",793
+Anthoxanthum,maderense,literature,Anthoxanthum,odoratum,HM849780.1,"BM 2008/8",1192
+Arundo,donaciformis,extracted,Arundo,donaciformis,MT079780.1,,987
+Arundo,donax,extracted,Arundo,donax,MF065152.1,"20150703",1090
+Arundo,micrantha,extracted,Arundo,micrantha,KF169811.1,"MARS00075",987
+Arundo,plinii,extracted,Arundo,plinii,KF169809.1,"MARS00130",992
+Australopyrum,calcis,genus,Australopyrum,retrofractum,JN382030.1,,782
+Brachiaria,ramosa,extracted,Brachiaria,ramosa,MH767566.1,"TuTY2237",1248
+Cenchrus,caliculatus,genus,Cenchrus,calyculatus,KT626677.1,"CHR:,1088
+Chionochloa,antarctica,extracted,Chionochloa,antarctica,EU400851.1,"Lloyd, K. 57955 (OTA)",897
+Chionochloa,australis,extracted,Chionochloa,australis,EU400852.1,"Lloyd, K. 57584 (OTA)",898
+Chionochloa,bromoides,genus,Chionochloa,rubra,EU400869.1,"Lloyd, K. 57960 (OTA)",899
+Chionochloa,cheesemanii,extracted,Chionochloa,cheesemanii,EU400854.1,"Lloyd, K. 57934 (OTA)",896
+Chionochloa,conspicua,extracted,Chionochloa,conspicua,EU400855.1,"Lloyd, K. s.n. (OTA)",897
+Chionochloa,crassiuscula,extracted,Chionochloa,crassiuscula,EU400856.1,"Lloyd, K. 57968 (OTA)",896
+Chionochloa,defracta,extracted,Chionochloa,defracta,EU400857.1,"Lloyd, K. 57937 (OTA)",897
+Chionochloa,flavescens,extracted,Chionochloa,flavescens,EU400858.1,"CHR 475418 (BOL)",897
+Chionochloa,flavicans,extracted,Chionochloa,flavicans,EU400859.1,"Lloyd, K. 57947 (OTA)",897
+Chionochloa,juncea,extracted,Chionochloa,juncea,EU400861.1,"Lloyd, K. 57967 (OTA)",898
+Chionochloa,lanea,extracted,Chionochloa,lanea,EU400862.1,"Lloyd, K. s.n. (OTA)",896
+Chionochloa,macra,extracted,Chionochloa,macra,EU400863.1,"CHR 475278 (BOL)",896
+Chionochloa,nivifera,extracted,Chionochloa,nivifera,EU400864.1,"Lloyd, K. s.n. (OTA)",897
+Chionochloa,pallens,extracted,Chionochloa,pallens,EU400867.1,"CHR 475279 (BOL)",897
+Chionochloa,rigida,extracted,Chionochloa,rigida,EU400868.1,"Linder, H.P. 5750 (cited as 5710 Barker 2003) (BOL)",896
+Chionochloa,rubra,genus,Chionochloa,vireta,EU400872.1,"Lloyd, K. 57585 (OTA)",897
+Chionochloa,spiralis,extracted,Chionochloa,spiralis,EU400870.1,"Lloyd, K. 57949 (OTA)",804
+Chionochloa,vireta,genus,Chionochloa,teretifolia,EU400871.1,"Lloyd, K. 57598 (OTA)",896
+Cortaderia,fulvida,genus,Cortaderia,pilosa,EU400876.1,"Baeza, C.M. et al. 4a (CONC)",878
+Cortaderia,richardii,extracted,Austroderia,richardii,EU400878.1,"G 3816 (BOL)",867
+Cynodon,dactylon,extracted,Cynodon,dactylon,MH767576.1,"TuTY1454",1248
+Deyeuxia,aucklandica,genus,Deyeuxia,arundinacea,KP711229.1,,1096
+Imperata,cheesemanii,genus,Imperata,cylindrica,MH767598.1,"CBH12259",1106
+Dichelachne,crinita,extracted,Dichelachne,crinita,KT007203.1,"CHR:,969
+Festuca,actae,extracted,Festuca,actae,KT626816.1,"CHR:,1035
+Hordeum,murinum,extracted,Hordeum,murinum,MG021812.1,,759
+Hordeum,vulgare,extracted,Hordeum,vulgare,HQ600432.1,"YDK2009158",751
+Isachne,globosa,extracted,Isachne,globosa,HQ600394.1,"YDK2009785",751
+Lachnagrostis,ammobia,genus,Lachnagrostis,filiformis,HE573287.1,"TCD:S.J. & T.R. Hodkinson 9374",1063
+Lachnagrostis,billardierei,extracted,Lachnagrostis,billardierei,KT007190.1,"CHR:,863
+Molinia,arundinacea,literature,Molinia,caerulea,MF543247.1,"MARS03808",1005
+Oplismenus,hirtellus,extracted,Oplismenus,hirtellus,KT626751.1,"CHR:,1116
+Panicum,virgatum,extracted,Panicum,virgatum,AY632368.1,,1201
+Paspalum,alcalinum,genus,Paspalum,setaceum,KJ773725.1,"Abbott 22488 (FLAS)",1249
+Phalaris,arundinacea,extracted,Phalaris,arundinacea,KP711231.1,,1096
+Phleum,bertolonii,genus,Phleum,paniculatum,KP711240.1,,1096
+Phleum,hubbardii,genus,Phleum,phleoides,KP711239.1,,1096
+Phleum,nodosum,literature,Phleum,pratense,KP711236.1,,1096
+Phragmites,australis,extracted,Phragmites,australis,MN867582.1,,1042
+Poa,sudicola,extracted,Poa,sudicola,KT626764.1,"CHR:,1184
+Puccinellia,andersonii,extracted,Puccinellia,andersonii,KC475538.1,"Consaul_2865-1",777
+Puccinellia,angustata,extracted,Puccinellia,angustata,KC475548.1,"Gillespie_10079_CAN",777
+Puccinellia,bruggemannii,extracted,Puccinellia,bruggemannii,KC475578.1,"Gillespie_5813_CAN",774
+Puccinellia,phryganodes,extracted,Puccinellia,phryganodes,KC475604.1,"Brunton_10602_CAN",774
+Rytidosperma,biannulare,genus,Rytidosperma,lechleri,EU400672.1,"Baeza, C.M. 4256 (CONC)",1188
+Spartina,×townsendii,genus,Sporobolus,michauxianus,AY632371.1,,1180
+Spartina,alterniflora,literature,Sporobolus,alterniflorus,MF065325.1,"20150835",1090
+Spinifex,sericeus,extracted,Spinifex,sericeus,KT626784.1,"CHR:,1125
+Triticum,aestivum,extracted,Triticum,aestivum,KP711248.1,,1096
+Zoysia,minima,extracted,Zoysia,minima,KT626801.1,"CHR:,1128
+Zoysia,pauciflora,genus,Zoysia,sinica,MF065345.1,"20150710",1090
+Asplenium,ceterach,extracted,Asplenium,ceterach,GU586814.1,"107295",1212
+Asplenium,trichomanes,extracted,Asplenium,trichomanes,MK826602.1,"Xu CZ002",1204
+Pteridium,aquilinum,extracted,Pteridium,aquilinum,MK573826.1,,1186
+Adiantum,capillus-veneris,extracted,Adiantum,capillus-veneris,AB574796.1,"TNS:774832",1205
+Pteris,vittata,extracted,Pteris,vittata,EF473709.1,"Salatino s.n.",1143
+Berberis,libanotica,genus,Berberis,morii,MH713424.1,"Guanmen Exped. 19 (E)",1230
+Papaver,rhoeas,genus,Papaver,dubium,AB517147.1,,786
+Anemone,blanda,extracted,Anemone,blanda,AF386093.1,,1075
+Anemone,nemorosa,extracted,Anemone,nemorosa,AF386097.1,,1096
+Clematis,cirrhosa,extracted,Clematis,cirrhosa,KR909696.1,"RBG Kew 1973-19713",1153
+Clematis,recta,extracted,Clematis,recta,GU732541.1,"Horandl9514",750
+Clematis,vitalba,genus,Clematis,leschenaultiana,KR909702.1,"TUR:601917",1194
+Ficaria,grandiflora,literature,Ficaria,verna,AF386100.1,,898
+Ranunculus,carpaticola,genus,Ranunculus,sceleratus,AB517148.1,,789
+Morus,alba,extracted,Morus,alba,KP088697.1,"BOP010318",785
+Morus,bombycis,extracted,Morus,bombycis,LT671665.1,,1222
+Frangula,alnus,extracted,Frangula,alnus,AJ251691.1,,1001
+Rhamnus,cathartica,genus,Rhamnus,pentapomica,KP121448.1,,892
+Rhamnus,ludovici-salvatoris,genus,Rhamnus,purpurea,KP121447.1,,892
+Amelanchier,alnifolia,extracted,Amelanchier,alnifolia,KC206646.1,"JC431 (TRT)",892
+Amelanchier,amabilis,literature,Amelanchier,sanguinea,JQ391079.1,"7058B",865
+Amelanchier,arborea,extracted,Amelanchier,arborea,JQ391075.1,"2003-1",865
+Amelanchier,asiatica,extracted,Amelanchier,asiatica,JQ391087.1,"11-099",870
+Amelanchier,bartramiana,extracted,Amelanchier,bartramiana,JQ391086.1,"B5",865
+Amelanchier,canadensis,extracted,Amelanchier,canadensis,JQ391081.1,"285-97M",865
+Amelanchier,"erecta",genus,Amelanchier,utahensis,JQ391085.1,"13657",870
+Amelanchier,humilis,genus,Amelanchier,laevis,JQ391084.1,"22578A",865
+Amelanchier,intermedia,extracted,Amelanchier,intermedia,JQ391082.1,"321-89C",865
+Amelanchier,nantucketensis,extracted,Amelanchier,nantucketensis,JQ391077.1,"583-91B",865
+Amelanchier,ovalis,extracted,Amelanchier,ovalis,JQ391078.1,"18-2002A",865
+Amelanchier,pallida,genus,Amelanchier,spicata,JQ391083.1,"18099B",865
+Aruncus,dioicus,extracted,Aruncus,dioicus,KF154894.1,,1015
+Crataegus,aemula,genus,Crataegus,monogyna,KC206648.1,"MP86 (TRT)",920
+Crataegus,ashei,genus,Crataegus,succulenta,JQ391237.1,"164-87B",865
+Crataegus,brachyacantha,extracted,Crataegus,brachyacantha,KC206623.1,"2003-32 (TRT)",912
+Crataegus,castlegarensis,extracted,Crataegus,castlegarensis,KC206624.1,"C-2003-23F (TRT)",908
+Crataegus,chrysocarpa,extracted,Crataegus,chrysocarpa,KC206639.1,"s.n. (16,12) (TRT)",906
+Crataegus,collina,literature,Crataegus,punctata,KC206667.1,"s.n. (23,18) (TRT)",908
+Crataegus,crus-galli,extracted,Crataegus,crus-galli,KC206625.1,"NT213a (TRT)",908
+Crataegus,douglasii,extracted,Crataegus,douglasii,KC206657.1,"JC387 (TRT)",908
+Crataegus,enderbyensis,extracted,Crataegus,enderbyensis,KC206651.1,"18445 (TRT)",908
+Crataegus,macracantha,extracted,Crataegus,macracantha,KC206640.1,"NT224 (TRT)",908
+Crataegus,marshallii,extracted,Crataegus,marshallii,KJ773405.1,"Abbott 18728 (FLAS)",787
+Crataegus,mollis,extracted,Crataegus,mollis,HQ593254.1,"AP359",826
+Crataegus,okennonii,extracted,Crataegus,okennonii,KC206629.1,"EL-152 (TRT)",908
+Crataegus,phippsii,extracted,Crataegus,phippsii,KC206659.1,"JC178 (TRT)",908
+Crataegus,saligna,extracted,Crataegus,saligna,KC206633.1,"2004-05 (TRT)",908
+Crataegus,shuswapensis,extracted,Crataegus,shuswapensis,KC206634.1,"2007-11 (TRT)",908
+Crataegus,submollis,extracted,Crataegus,submollis,DQ860488.1,,917
+Crataegus,suksdorfii,extracted,Crataegus,suksdorfii,KC206670.1,"EL-68 (TRT)",920
+Crataegus,triflora,extracted,Crataegus,triflora,KC206642.1,"NT290 (TRT)",908
+Filpendula,hexapetala,literature,Filipendula,vulgaris,JF317486.1,"S.D. Zhang 070898",1246
+Fragaria,pentaphylla,extracted,Fragaria,pentaphylla,JX469074.1,,1031
+Malus,fusca,extracted,Malus,fusca,JQ391199.1,"231-80A",870
+Malus,ioensis,extracted,Malus,ioensis,JQ391187.1,"22516",870
+Malus,"Jonagold",genus,Malus,sieversii,JQ391200.1,"119-73A",870
+Malus,kansuensis,extracted,Malus,kansuensis,JQ391192.1,"487-85A",870
+Malus,"Liberty",genus,Malus,coronaria,JQ391193.1,"899-63A",870
+Malus,prunifolia,extracted,Malus,prunifolia,JQ391203.1,"10795",871
+Malus,pumila,extracted,Malus,pumila,JQ391195.1,"64-53B",871
+Malus,transitoria,genus,Malus,x,JQ391188.1,"6387A",870
+Malus,trilobata,extracted,Malus,trilobata,JQ391149.1,"4078",870
+Mespilus,canescens,genus,Mespilus,germanica,KC206626.1,"Morton Arboretum 6216V93 (TRT)",913
+Prunus,mahaleb,extracted,Prunus,mahaleb,KP769086.1,,814
+Pyrus,communis,extracted,Pyrus,communis,JQ391221.1,"411-90D",870
+Urtica,artrovirens,genus,Urtica,thunbergiana,KC284992.1,"SNJ Exped., 20110724077 (KUN)",1013
+Pistacia,lentiscus,extracted,Pistacia,lentiscus,KF664527.1,"Golan 1.1009(US)",769
+Pistacia,palaestina,extracted,Pistacia,terebinthus,KF664534.1,"Golan 1.222(US)",769
+Acer,campestre,genus,Acer,pictum,DQ978416.1,"S-F. Huang s.n., 26 June 2000 (MO), tree Morris 61-569A",1207
+Acer,obtusifolium,genus,Acer,albopurpurascens,FN651675.1,,991
+Acer,tataricum,extracted,Acer,tataricum,KP088452.1,"BOP010201",785
+Ipomoea,stolonifera,genus,Ipomoea,marabensis,MF411403.1,"ITV2879",771
+Selaginella,helvetica,extracted,Selaginella,helvetica,AB574644.1,"TNS:765114",1205
+Lycium,ruthenicum,extracted,Lycium,ruthenicum,KT906303.1,"NX2015001",787
+Physalis,alkekengi,genus,Physalis,walteri,KJ773745.1,"Abbott 22548 (FLAS)",1234
+Solanum,elaeagnifolium,genus,Solanum,insanum,MK375265.1,,1127
+Curcuma,aeruginosa,extracted,Curcuma,aeruginosa,KJ871772.1,"86524",855
+Curcuma,alismatifolia,extracted,Curcuma,alismatifolia,KJ871775.1,"78870",855
+Curcuma,amada,extracted,Curcuma,amada,KX608605.1,,929
+Curcuma,aromatica,extracted,Curcuma,aromatica,KJ871785.1,"86517",855
+Curcuma,bhatii,extracted,Curcuma,bhatii,KU697332.1,,866
+Curcuma,brog,literature,Curcuma,longa,KF304150.1,,922
+Curcuma,caesia,extracted,Curcuma,caesia,KP742828.1,"700",1033
+Curcuma,comosa,extracted,Curcuma,comosa,KP742830.1,"644",950
+Curcuma,decipiens,extracted,Curcuma,decipiens,KX608618.1,,765
+Curcuma,haritha,extracted,Curcuma,haritha,KP742824.1,"1136",865
+Curcuma,malabarica,literature,Curcuma,zedoaria,KP742826.1,"760",1020
+Curcuma,mangga,extracted,Curcuma,mangga,KP742833.1,"1049",1000
+Curcuma,montana,extracted,Curcuma,montana,KP742829.1,"649",1007
+Curcuma,mutabilis,extracted,Curcuma,mutabilis,KX608607.1,,753
+Curcuma,neilgherrensis,extracted,Curcuma,neilgherrensis,KX608608.1,,849
+Curcuma,oligantha,extracted,Curcuma,oligantha,KX608609.1,,942
+Curcuma,pseudomontana,extracted,Curcuma,pseudomontana,KX608616.1,,873
+Curcuma,raktakanta,extracted,Curcuma,raktakanta,KJ871794.1,"86519",855
+Curcuma,vamana,extracted,Curcuma,vamana,KX608615.1,,930
+Larrea,tridentata,extracted,Larrea,tridentata,HE651129.1,"BONN:A. Worberg 012",950
